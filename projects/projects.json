@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Watch Store",
+    "desc": "A single-page demo site featuring stylish watches with a clean layout and easy navigation.",
+    "image": "Watch",
+    "category": "Static",
+    "links": {
+      "view": "https://kashan18.github.io/Watch-Store/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Restaurant",
+    "desc": "A static restaurant website with a modern design, featuring a responsive menu, overview, and contact info.",
+    "image": "Restaurant",
+    "category": "Static",
+    "links": {
+      "view": "https://kashan18.github.io/Tasty-Food-Restaurant/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "DNBC News",
+    "desc": "DNBC News is a static news website with a modern design, offering the latest updates, articles, and contact information in a responsive layout.",
+    "image": "DNBC",
+    "category": "Static",
+    "links": {
+      "view": "https://kashan18.github.io/DNBC-News/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "Hairnic",
+    "desc": "Hirnic Shampoo's static website with a modern design, highlighting product details and reviews.",
+    "image": "Hairnic",
+    "category": "Static",
+    "links": {
+      "view": "https://kashan18.github.io/Hairnic-Shampoo/",
+      "code": "https://github.com/jigar-sable/resumegen"
+    }
+  },
+  {
+    "name": "Matrix conversion",
+    "desc": "A static unit converter website for Matrix Conversion with a simple interface for converting between various units.",
+    "image": "Matrix",
+    "category": "Static",
+    "links": {
+      "view": "https://kashan18.github.io/Matrix-Conversion/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+  {
+    "name": "Elecar",
+    "desc": "A static website for Elecar showcasing car models with a modern design and user-friendly navigation",
+    "image": "Elecar",
+    "category": "lamp",
+    "links": {
+      "view": "https://kashan18.github.io/Elecar/",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
+    }
+  },
+{
+  "name": "Outfit Showcase",
+  "desc": "A static website for clothes showcasing different types of outfit brands with a modern design and an easy way of shopping.",
+  "image": "outfit",  
+  "category": "clothing", 
+  "links": {
+    "view": "https://e-commerce-website-template-flax.vercel.app/",   
+    "code": "https://github.com/syedahsanrazabukhari/e-commerce-website-template"
+  }
+  },
+  {
+  "name": "Blog Website",
+  "desc": "A blog website where we will publish news and articles on various topics, providing a platform for readers to stay informed and engaged.",
+  "image": "blog-website",  
+  "category": "blog", 
+  "links": {
+    "view": "https://blogs-with-sanity-cms.vercel.app/",   
+    "code": "https://github.com/syedahsanrazabukhari/Blogs-with-sanityCMS"
+  }
+  },
+    {
+  "name": "Home Asthetic",
+  "desc": "A blog website where we will publish news and articles on various topics, providing a platform for readers to stay informed and engaged.",
+  "image": "Furniture",  
+  "category": "Furniture", 
+  "links": {
+    "view": "https://giaic-hackathon-3-five.vercel.app/",   
+    "code": "https://github.com/syedahsanrazabukhari/giaic-hackathon-3"
+  }
+  }
+
+
+]
